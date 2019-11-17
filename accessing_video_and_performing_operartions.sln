@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "accessing_camera_and_performing_operartions", "accessing_video_and_performing_operartions\accessing_camera_and_performing_operartions.pyproj", "{5ADA002A-1760-4B3B-ACCD-0A52089445D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5ADA002A-1760-4B3B-ACCD-0A52089445D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ADA002A-1760-4B3B-ACCD-0A52089445D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99185D7C-F122-47A2-AAC2-1A33D4C132F1}
+	EndGlobalSection
+EndGlobal
